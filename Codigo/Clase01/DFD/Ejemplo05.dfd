@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+precio
+1
+0
+4
+cant
+1
+0
+5
+total
+1
+0
+4
+1
+19
+'INGRESE EL PRECIO'
+5
+1
+6
+precio
+4
+1
+21
+'INGRESE LA CANTIDAD'
+5
+1
+4
+cant
+6
+3
+8
+subtotal
+13
+precio * cant
+3
+imp
+15
+subtotal * 0.18
+5
+total
+14
+subtotal + imp
+4
+1
+30
+'EL PRECIO A PAGAR ES' , total
+1

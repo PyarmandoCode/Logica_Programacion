@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+9
+pago_hora
+2
+12
+11
+total_horas
+1
+0
+4
+1
+30
+'INGRESE LAS HORAS TRABAJADAS'
+5
+1
+11
+total_horas
+6
+1
+6
+jornal
+23
+total_horas * pago_hora
+4
+1
+32
+'TU JORNAL A RECIBIR ES:',jornal
+1

@@ -1,0 +1,59 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+n1
+1
+0
+2
+n2
+1
+0
+4
+1
+25
+'DIGITE EL PRIMER NUMERO'
+5
+1
+2
+n1
+4
+1
+22
+'DIGITE EL NUMERO DOS'
+5
+1
+2
+n2
+6
+3
+3
+sum
+7
+n1 + n2
+3
+res
+7
+n1 - n2
+4
+mul 
+7
+n1 * n2
+4
+1
+17
+'LA SUMA ES', sum
+4
+1
+17
+'LA RESTA ES',res
+4
+1
+26
+'LA MULTIPLICACION ES',mul
+1

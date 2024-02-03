@@ -1,0 +1,55 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+8
+nhombres
+1
+0
+8
+nmujeres
+1
+0
+5
+total
+1
+0
+4
+1
+48
+'DIGITE EL TOTAL DE HOMBRES QUE HAY EN LA SALA:'
+5
+1
+8
+nhombres
+4
+1
+48
+'DIGITE EL TOTAL DE MUJERES QUE HAY EN EL SALON'
+5
+1
+8
+nmujeres
+6
+3
+5
+total
+17
+nhombres+nmujeres
+2
+ph
+18
+nhombres*100/total
+2
+pm
+18
+nmujeres*100/total
+4
+1
+68
+'EL PORCENTAJE DE HOMRES ES:',ph ,'Y EL PORCENTAJE DE MUJERES ES',pm
+1
