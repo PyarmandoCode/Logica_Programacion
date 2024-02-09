@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+18
+precio , unidades 
+6
+1
+8
+subtotal
+17
+precio * unidades
+7
+0
+1
+12
+unidades > 3
+6
+1
+9
+descuento
+15
+subtotal * 0.10
+13
+6
+1
+9
+descuento
+15
+subtotal * 0.20
+13
+6
+1
+5
+total
+20
+subtotal - descuento
+4
+1
+27
+'EL TOTAL A PAGAR ES',total
+1

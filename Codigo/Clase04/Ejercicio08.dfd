@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+4
+nota
+7
+0
+1
+9
+nota > 10
+4
+1
+49
+'El Participante debe dar un examen sustitutorio'
+5
+1
+12
+sustitutorio
+6
+1
+5
+final
+24
+(nota + sustitutorio) /2
+7
+0
+1
+10
+final > 10
+4
+1
+60
+'El Participante deberra llevar nuevamente el curso' , final
+13
+4
+1
+43
+'El Particiante aprobo el curso con ',final
+13
+13
+4
+1
+33
+'El Participante Aprobo el Curso'
+13
+1
