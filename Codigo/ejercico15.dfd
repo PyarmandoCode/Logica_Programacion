@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+n1
+1
+0
+2
+n2
+1
+0
+4
+suma
+1
+0
+4
+1
+24
+'DIGITE LOS DOS NUMEROS'
+5
+1
+5
+n1,n2
+7
+0
+1
+7
+n1 > n2
+8
+1
+1
+i
+1
+4
+n1+1
+1
+4
+n2-1
+1
+1
+1
+6
+1
+4
+suma
+8
+suma + i
+10
+4
+1
+18
+'LA SUMA ES', suma
+13
+4
+1
+31
+'no estan en el orden correcto'
+13
+1

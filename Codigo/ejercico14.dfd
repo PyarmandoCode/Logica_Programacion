@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+20
+'INGRESA EL NOMBRE:'
+5
+1
+4
+nom 
+4
+1
+17
+'INGRESE LA EDAD'
+5
+1
+4
+edad
+4
+1
+17
+'INGRESE EL SEXO'
+5
+1
+4
+sexo
+7
+0
+1
+23
+sexo = 'm' and edad >18
+4
+1
+31
+'NO CUMPLE CON LAS CONDICIONES'
+13
+4
+1
+33
+'EL NOMBRE DE LA PERSONA ES:',nom
+13
+1
